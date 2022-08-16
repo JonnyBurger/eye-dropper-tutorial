@@ -1,10 +1,7 @@
-# Remotion video
 
 Instagram / Twitter post about the new Remotion eye dropper feature.
 
-[!out/video.mp4](Eyedropper)
-
-Welcome to your Remotion project!
+https://user-images.githubusercontent.com/1629785/184838385-b3010607-29f1-4b77-902e-e3312fed18cb.mp4
 
 ## Commands
 
