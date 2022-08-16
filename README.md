@@ -6,6 +6,8 @@
   </a>
 </p>
 
+<video src="video.mp4"></video>
+
 Welcome to your Remotion project!
 
 ## Commands
